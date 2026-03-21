@@ -44,3 +44,11 @@ Enter your choice: 1
 Enter input filename: sample.txt
 Enter output filename: compressed.bin
 ```
+
+| Name |
+|------|
+| *Rash Ian Sinag* |
+| *Hannah Maeryl Perraro* | 
+
+**Course:** Data Structures and Algorithms  
+**School:** Technological University of the Philippines - Manila
