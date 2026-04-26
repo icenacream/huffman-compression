@@ -1,4 +1,4 @@
-`` HUffman Compression Project ``
+# HUffman Compression Project 
 
 |Name |
 |--|
